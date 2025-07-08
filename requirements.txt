@@ -1,5 +1,5 @@
-grpcio==1.60.0
-lalsuite==7.2.1
-catboost==1.2
-torch==2.1.0
-ray==2.9.0
+grpcio==1.73.1
+lalsuite==7.26.1
+catboost==1.2.8
+torch==2.7.1
+ray==2.47.1
